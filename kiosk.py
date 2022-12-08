@@ -2,7 +2,7 @@ import streamlit as st
 
 st.title("Order")
 
-st.write("Yehezkiel Alexander 22100828")
+st.write("Seungmin Lee 22200840")
 
 st.image("menu.png", width=300)
 
