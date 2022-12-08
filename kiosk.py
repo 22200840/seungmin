@@ -2,6 +2,8 @@ import streamlit as st
 
 st.title("Order")
 
+st.write("Yehezkiel Alexander 22100828")
+
 st.image("menu.png", width=300)
 
 choice = st.radio(
